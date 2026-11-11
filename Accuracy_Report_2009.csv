@@ -1,0 +1,6 @@
+system:index,Metric,Value,.geo
+0,Overall Accuracy,0.8933333333333333,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,Kappa Coefficient,0.8672859986728599,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,Producers Accuracy (Classes 0-6),"[[1.0], [1.0], [0.75], [0.875], [0.875], [0.5714285714285714], [1.0]]","{""type"":""MultiPoint"",""coordinates"":[]}"
+3,Users Accuracy (Classes 0-6),"[[1.0, 1.0, 0.8333333333333334, 0.7241379310344828, 1.0, 0.8, 0.9433962264150944]]","{""type"":""MultiPoint"",""coordinates"":[]}"
+4,Confusion Matrix (Rows 0-6),"[[11, 0, 0, 0, 0, 0, 0], [0, 15, 0, 0, 0, 0, 0], [0, 0, 15, 4, 0, 0, 1], [0, 0, 1, 21, 0, 2, 0], [0, 0, 2, 0, 14, 0, 0], [0, 0, 0, 4, 0, 8, 2], [0, 0, 0, 0, 0, 0, 50]]","{""type"":""MultiPoint"",""coordinates"":[]}"
